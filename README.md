@@ -1,5 +1,9 @@
 # MiniComponents
 
+A library to facilitate the creation of components using Tailwind CSS and AlpineJS
+
+-----------------------------------------------------------------------------------------
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
